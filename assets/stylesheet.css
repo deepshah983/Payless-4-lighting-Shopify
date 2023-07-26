@@ -1,0 +1,17 @@
+/* Common Styling - STARTS */
+* {
+  box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6 {
+  
+}
+p {
+  font-size: 17px; color: #000;
+}
+.page-width {
+  max-width: 1482px;
+}
+.secction_heading {
+  font-size: 35px; color: #000; margin-bottom: 30px;
+}
+/* Common Styling - ENDS */
